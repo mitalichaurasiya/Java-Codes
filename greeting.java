@@ -1,6 +1,3 @@
-/* Write a Java program that asks the user to enter his/her name and greets them with “Hello <name>, have a good day” text. */
-
-//Code:
 import java.util.Scanner;
 
 public class greeting{

@@ -1,6 +1,3 @@
-/* Write a Java program to convert Kilometers to miles. */
-
-//Code:
 import java.util.Scanner;
 
 public class Kmtomiles {
